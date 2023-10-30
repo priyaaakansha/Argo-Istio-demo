@@ -12,5 +12,5 @@ spec:
   project: default
   source:
     path: Apps
-    repoURL: https://github.com/priyaaakansha/Argo-Istio-demo
+    repoURL: 'https://github.com/priyaaakansha/Argo-Istio-demo'
     targetRevision: HEAD
